@@ -1,4 +1,3 @@
-
 body{
   font-family: Arial;
   background-color:cadetblue;
@@ -28,8 +27,7 @@ body{
   border-radius: 10px;
   padding: 15px 0px;
   cursor: pointer;
-  
-}
+  }
 
 .btn-add{
   background-color:rgb(29, 185, 29);
